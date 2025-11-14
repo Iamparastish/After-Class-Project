@@ -1,0 +1,14 @@
+from datetime import date 
+
+# year, month, date
+birthdate1 = date(1984, 9, 11)
+birthdate2 = date(1989, 3, 5)
+birthdate3 = date(2013, 8, 16) 
+birthdate4 = date(2016, 7, 8)
+birthdate5 = date(2000, 6, 28) 
+
+print(f"birthdate1: {birthdate1}")
+print(f"birthdate2: {birthdate2}")
+print(f"birthdate3: {birthdate3}")
+print(f"birthdate4: {birthdate4}")
+print(f"birthdate5: {birthdate5}")
