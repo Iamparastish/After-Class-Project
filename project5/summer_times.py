@@ -5,4 +5,4 @@ if month == "augest" or month == "june" or month == "july" :
 elif month == "april" or month == "may":
      print("It is almost summer.")
 else:
-    print("It is not summer time.")
+    print("It is not be summer time.")
